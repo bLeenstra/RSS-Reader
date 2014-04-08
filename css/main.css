@@ -1,0 +1,30 @@
+*{
+	border:0px;
+	padding:0px;
+	margin:0px
+}
+#title{
+	width:200px;
+	height:200px;
+	background-color:blue
+}
+#navbar{
+	width:200px;
+	height:200px;
+	background-color:yellow
+}
+#main{
+	width:200px;
+	height:200px;
+	background-color:green
+}
+#login{
+	width:500px;
+	height:200px;
+	background-color:red
+}
+#register{
+	width:500px;
+	height:200px;
+	background-color:green
+}
